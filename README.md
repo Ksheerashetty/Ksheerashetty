@@ -3,8 +3,8 @@
 <a href = "https://www.linkedin.com/in/ 
 ksheera-shetty-059b61216
 "> Linkedin</a></br>
-<a href = "_ksheera_shetty_">         Instagram</a></br>
-<a href = "@Ksheerashetty"> HackerRank </br>
+<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">         Instagram</a></br>
+<a href = "https://www.hackerrank.com/ksheerashetty"> HackerRank </br>
 <!--
 **Ksheerashetty/Ksheerashetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
