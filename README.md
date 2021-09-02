@@ -1,6 +1,6 @@
 ### Hi there, I am Ksheera! 👋 
 - 📫 How to reach me:</br>
-<a href = "www.linkedin.com/in/ 
+<a href = "https://www.linkedin.com/in/ 
 ksheera-shetty-059b61216
 "> Linkedin</a></br>
 <a href = "_ksheera_shetty_">         Instagram</a></br>
