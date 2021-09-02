@@ -1,4 +1,4 @@
-### <font color = "green"> Hi there, I am Ksheera! 👋 </font>
+### Hi there, I am Ksheera! 👋 
 
 <!--
 **Ksheerashetty/Ksheerashetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
