@@ -1,6 +1,8 @@
 ### Hi there, I am Ksheera! 👋 
 - 📫 How to reach me:</br>
-<a href = "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"> Linkedin</a></br>
+<a href = "www.linkedin.com/in/ 
+ksheera-shetty-059b61216
+"> Linkedin</a></br>
 <a href = "_ksheera_shetty_">         Instagram</a></br>
 <a href = "@Ksheerashetty"> HackerRank </br>
 <!--
