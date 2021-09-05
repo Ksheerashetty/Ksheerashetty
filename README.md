@@ -6,6 +6,7 @@ Gmail Id: ksheerashetty@gmail.com </br>
 ksheera-shetty-059b61216
 "> Linkedin</a></br>
 <a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
+<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00FFE2&icon_color=99d1ce&text_color=07FCC2&bg_color=15151515">
 <!-- <a href = "https://www.hackerrank.com/ksheerashetty">HackerRank </br>
 <!--
 **Ksheerashetty/Ksheerashetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
