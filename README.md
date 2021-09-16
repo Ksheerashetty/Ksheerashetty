@@ -9,6 +9,8 @@ ksheera-shetty-059b61216
 </br>
 </br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00FFE2&icon_color=99d1ce&text_color=07FCC2&bg_color=15151515">
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--[instagram](https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link)
 <!--[instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1U6LmpzoBNg2YbRan2SF3p9S1CafG33UMocaKrzKtNsZgijE2QNwVpYzJpRFumSJX0rU&usqp=CAU)
 
