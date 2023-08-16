@@ -11,6 +11,10 @@ ksheera-shetty-059b61216
 <img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00FFE2&icon_color=99d1ce&text_color=07FCC2&bg_color=15151515"></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty&layout=donut-vertical)](https://github.com/Ksheerashetty?tab=repositories)
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                
+
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty)](https://github.com/Ksheerashetty/github-readme-stats)
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ksheerashetty&repo=github-readme-stats)](https://github.com/Ksheerashetty/github-readme-stats)
 pins
