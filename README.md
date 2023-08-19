@@ -1,5 +1,6 @@
 ### Hi there, I am Ksheera! 👋 
 - 📫 How to reach me:</br>
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 Gmail Id: ksheerashetty@gmail.com </br>
 <a href = "https://www.linkedin.com/in/ 
