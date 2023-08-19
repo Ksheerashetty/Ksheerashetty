@@ -12,7 +12,7 @@ ksheera-shetty-059b61216
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty&layout=donut-vertical)](https://github.com/Ksheerashetty?tab=repositories)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ksheerashetty)
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+<!--[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 <!--<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKsheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKsheerashetty&label=Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat" /></a>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
