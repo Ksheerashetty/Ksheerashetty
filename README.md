@@ -6,7 +6,7 @@ Gmail Id: ksheerashetty@gmail.com </br>
 </br>
 </br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00FFE2&icon_color=99d1ce&text_color=07FCC2&bg_color=15151515"></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty&layout=donut-vertical)](https://github.com/Ksheerashetty?tab=repositories)-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ksheerashetty)
