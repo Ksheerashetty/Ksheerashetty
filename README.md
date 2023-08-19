@@ -1,9 +1,7 @@
 ### Hi there, I am Ksheera! 👋 
 - 📫 How to reach me:</br>
 Gmail Id: ksheerashetty@gmail.com </br>
-<a href = "https://www.linkedin.com/in/ 
-ksheera-shetty-059b61216
-"> Linkedin</a></br>
+<a href = "https://www.linkedin.com/in/ksheera-shetty-059b61216"> Linkedin</a></br>
 <a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
 </br>
 </br>
