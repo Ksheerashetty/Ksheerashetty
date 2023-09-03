@@ -1,5 +1,5 @@
 ### Hi there, I am Ksheera! 👋 
-![My GitHub Profile image](https://github.com/eddiejaoude.png)
+<!--![My GitHub Profile image](https://github.com/eddiejaoude.png)-->
 - 📫 How to reach me:</br>
 Gmail Id: ksheerashetty@gmail.com </br>
 <a href = "https://www.linkedin.com/in/ksheera-shetty-059b61216"> Linkedin</a></br>
@@ -10,6 +10,20 @@ Gmail Id: ksheerashetty@gmail.com </br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight"></a>
 </br>-->
 <img src="https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000" alt="GitHub Stats">        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" alt="GitHub Streak"></a></br>
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br />
+
+#
 <a href="https://visitorbadge.io/status?path=Ksheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%230a7f94&countColor=%2300ccc3&style=flat&labelStyle=none" /></a>
 
 <!--[![Visitors](https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=Ksheerashetty)
