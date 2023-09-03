@@ -8,7 +8,7 @@ Gmail Id: ksheerashetty@gmail.com </br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight"></a>
 </br>
-<a href="https://visitorbadge.io/status?path=Ksheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat&labelStyle=none" /></a>
+<a href="https://visitorbadge.io/status?path=Ksheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%2300ccc3&countColor=%230a7f94&style=flat&labelStyle=none" /></a>
 <!--[![Visitors](https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=Ksheerashetty)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty&layout=donut-vertical)](https://github.com/Ksheerashetty?tab=repositories)-->
