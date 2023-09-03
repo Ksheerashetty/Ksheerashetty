@@ -3,7 +3,8 @@
 Gmail Id: ksheerashetty@gmail.com </br>
 <a href = "https://www.linkedin.com/in/ksheera-shetty-059b61216"> Linkedin</a></br>
 <a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
-<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=#00A4F8&icon_color=#0A7F94&text_color=#00CCC3&bg_color=000000">
+<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&theme=aura&show_icons=true">
+<!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=#00A4F8&icon_color=#0A7F94&text_color=#00CCC3&bg_color=000000">-->
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight"></a>
 </br>
