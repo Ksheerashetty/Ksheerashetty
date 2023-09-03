@@ -6,6 +6,8 @@ Gmail Id: ksheerashetty@gmail.com </br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00FFE2&icon_color=99d1ce&text_color=07FCC2&bg_color=15151515">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ksheerashetty&theme=buefy-dark)](https://git.io/streak-stats)
 </br>
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=Ksheerashetty&theme=buefy-dark)](https://git.io/streak-stats)-->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=buefy-dark"></a>
 <a href="https://visitorbadge.io/status?path=Ksheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat&labelStyle=none" /></a>
 <!--[![Visitors](https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=Ksheerashetty)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
