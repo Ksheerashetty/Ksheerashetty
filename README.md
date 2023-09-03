@@ -9,7 +9,7 @@ Gmail Id: ksheerashetty@gmail.com </br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty&layout=donut-vertical)](https://github.com/Ksheerashetty?tab=repositories)-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ksheerashetty&theme=buefy-dark)](https://git.io/streak-stats)</br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ksheerashetty&theme=buefy-dark)](https://git.io/streak-stats)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ksheerashetty)</br>
 <!--<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKsheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKsheerashetty&label=Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat" /></a>
 
