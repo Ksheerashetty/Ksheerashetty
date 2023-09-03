@@ -1,5 +1,6 @@
 ### Hi there, I am Ksheera! 👋 
 <!--![My GitHub Profile image](https://github.com/eddiejaoude.png)-->
+![gif](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/84f00673-cbe1-4fcc-babb-3815a42286bf)
 
 <!--https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/9fddddc0-7cd5-420d-9a63-887d001057c4-->
 <img src="C:\Users\kshee\Downloads\gif.gif">
