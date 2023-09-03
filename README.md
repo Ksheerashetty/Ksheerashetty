@@ -8,7 +8,7 @@ Gmail Id: ksheerashetty@gmail.com </br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight"></a>
 </br>-->
-<div style="display: flex; justify-content: space-between; ">
+<div style="display: flex; justify-content: space-between; flex-direction:row; ">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000" alt="GitHub Stats">
   </div>
