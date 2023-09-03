@@ -4,7 +4,9 @@ Gmail Id: ksheerashetty@gmail.com </br>
 <a href = "https://www.linkedin.com/in/ksheera-shetty-059b61216"> Linkedin</a></br>
 <a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00FFE2&icon_color=99d1ce&text_color=07FCC2&bg_color=15151515">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ksheerashetty)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ksheerashetty&theme=buefy-dark)](https://git.io/streak-stats)
+</br>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=Ksheerashetty)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty&layout=donut-vertical)](https://github.com/Ksheerashetty?tab=repositories)-->
 <!--<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKsheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKsheerashetty&label=Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat" /></a>
