@@ -8,7 +8,7 @@ Gmail Id: ksheerashetty@gmail.com </br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight"></a>
 </br>-->
-<img src="https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000" alt="GitHub Stats"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" alt="GitHub Streak"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000" alt="GitHub Stats"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" alt="GitHub Streak"></a></br>
 <a href="https://visitorbadge.io/status?path=Ksheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%230a7f94&countColor=%2300ccc3&style=flat&labelStyle=none" /></a>
 
 <!--[![Visitors](https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=Ksheerashetty)
