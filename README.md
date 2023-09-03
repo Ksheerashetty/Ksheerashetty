@@ -1,8 +1,8 @@
 ### Hi there, I am Ksheera! 👋 
 <!--![gif2](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/3c3546c1-3575-43f6-80bc-15db1016f9fd)-->
 <!--![My GitHub Profile image](https://github.com/eddiejaoude.png)-->
-<!--![gif2](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)-->
-<img src=" https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4" title="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" alt="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" >
+![Ksheera bitmoji](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
+<!--<img src=" https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4" title="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" alt="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" >-->
 <!--![gif](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/84f00673-cbe1-4fcc-babb-3815a42286bf)-->
 
 <!--https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/9fddddc0-7cd5-420d-9a63-887d001057c4-->
