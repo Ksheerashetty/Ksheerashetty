@@ -1,7 +1,8 @@
 ### Hi there, I am Ksheera! 👋 
 <!--![My GitHub Profile image](https://github.com/eddiejaoude.png)-->
 
-https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/9fddddc0-7cd5-420d-9a63-887d001057c4
+<!--https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/9fddddc0-7cd5-420d-9a63-887d001057c4-->
+<img src="C:\Users\kshee\Downloads\gif.gif">
 
 
 - 📫 How to reach me:</br>
