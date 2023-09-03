@@ -4,6 +4,7 @@ Gmail Id: ksheerashetty@gmail.com </br>
 <a href = "https://www.linkedin.com/in/ksheera-shetty-059b61216"> Linkedin</a></br>
 <a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00FFE2&icon_color=99d1ce&text_color=07FCC2&bg_color=15151515">
+<img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ksheerashetty&theme=buefy-dark)](https://git.io/streak-stats) ">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ksheerashetty&theme=buefy-dark)](https://git.io/streak-stats)</br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ksheerashetty)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
