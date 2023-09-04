@@ -21,7 +21,7 @@
 </br>
 
 ---
-### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40"> How to reach me ️</h3>
+### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40">  How to reach me 
 <p >
   <a href="https://linkedin.com/in/ksheerashetty28/" title="LinkedIn">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265392888-642dfb60-536d-4af0-8dd6-9fc8aee0d277.png" alt="LinkedIn" width="25px" height="25px"  align="left"  style="padding-right:10px;">
