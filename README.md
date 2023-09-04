@@ -21,7 +21,7 @@
 
 ---
 ### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40"> How to reach me ️</h3>
-<p align="center">
+<p >
   <a href="https://linkedin.com/in/ksheerashetty28/" title="LinkedIn">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265392888-642dfb60-536d-4af0-8dd6-9fc8aee0d277.png" alt="LinkedIn" width="30px" height="30px" style="margin-right: 10px;">
   </a>
@@ -68,7 +68,6 @@
  </p>
 </details>
 </br>
-
 
 ---
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N2MW9venJ6NGw4MXRoaGw1bHY4NHgya3B4d2N5aGozYzRrcTBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOk51T66Qd8tJm/giphy.gif"  width="40">Profile Views
