@@ -20,7 +20,7 @@
 </br>
 
 ### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40"> How to reach me ️
-<a href="https://linkedin.com/in/ksheerashetty28">
+<a href="https://linkedin.com/in/ksheerashetty28" target="_blank">
   <img align="left" width="30px" height="30px" title="LinkedIn" alt="Ksheera's LinkedIn" style="padding-right:10px;" src="https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/6614d042-3afb-4541-a3fb-40c244cb8a52">
 </a>
 
