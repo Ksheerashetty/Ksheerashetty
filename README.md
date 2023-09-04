@@ -17,9 +17,10 @@
 <img align="left" alt="Visual Studio Code" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Canva" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="left" alt="Figma" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</br>
 
 ### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40"> How to reach me ️
-<a href="https://linkedin.com/in/ksheerashetty28" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)" alt="KsheeraShetty" title="LinkedIn" /></a>
+<a href="https://linkedin.com/in/ksheerashetty28" target="_blank"><img align="center" src="https://icons8.com/icon/DXsvvP00lr24/linkedin" alt="KsheeraShetty" title="LinkedIn" /></a>
 <a href="mailto:ksheerashetty@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
 
 
@@ -31,7 +32,6 @@
 </br>-->
       
 ---
-
 
 
 ---
