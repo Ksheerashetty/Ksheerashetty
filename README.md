@@ -21,8 +21,9 @@
 
 ### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40"> How to reach me ️
 <a href="https://linkedin.com/in/ksheerashetty28">
-  <img align="left" width="30px" height="30px" title="LinkedIn" alt="Ksheera's LinkedIn" style="padding-right:10px;" src="https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/6614d042-3afb-4541-a3fb-40c244cb8a52">
+  <img align="left" width="30px" height="30px" title="LinkedIn" alt="Ksheera's LinkedIn" style="padding-right:10px;" src="https://github.com/Ksheerashetty/Ksheerashetty/blob/main/assets/65451950/6614d042-3afb-4541-a3fb-40c244cb8a52.png">
 </a>
+
 
 
 <a href="mailto:ksheerashetty@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
