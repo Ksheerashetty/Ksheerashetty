@@ -25,12 +25,12 @@
   <br />
 
 
-### <img src=" https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVkdGd4ZnYza3FibzI4eGsycDgzMTluYnN4YjVlcHFkdWNvM2g0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40" > How to reach me ️
+
+### <img src=" ![reach](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/e1267239-f5a8-42c5-89df-fe26d9263012)" width="40" > How to reach me ️
 
 <p align="center">
-<a href="https://linkedin.com/in/ksheerashetty28" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="KsheeraShetty" title="LinkedIn" /></a>
+<a href="https://linkedin.com/in/ksheerashetty28" target="_blank"><img align="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg](https://skillicons.dev/icons?i=linkedin)" alt="KsheeraShetty" title="LinkedIn" /></a>
 <a href="mailto:ksheerashetty@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
- 
 </p>
 
 
