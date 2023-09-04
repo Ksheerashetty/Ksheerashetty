@@ -20,8 +20,9 @@
 </br>
 
 ### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40"> How to reach me ️
-<a href="https://linkedin.com/in/ksheerashetty28" target="_blank"<img src=""></a>
+<a href="https://linkedin.com/in/ksheerashetty28" target="_blank"<img src="![Uploading linkedin.svg…]() "></a>
 <a href="mailto:ksheerashetty@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
+
 
 
 <!--<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
