@@ -26,8 +26,8 @@
 </a>
 <a href="mailto:ksheerashetty@gmail.com" target="_blank">
 <img align="left" width="30px" height="30px" title="Gmail" alt="Ksheera's Gmail" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265397778-e893de56-42b1-4be5-95fc-e16feed28ada.png"/>
- <a href="mailto:ksheerashetty@gmail.com" target="_blank">
-<img align="left" width="30px" height="30px" title="Gmail" alt="Ksheera's Gmail" style="padding-right:10px;" src=" https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265400922-e10aa2cb-6116-4eb6-8ca3-42a00ce05860.png"/>
+<a href="https://www.instagram.com/ksheera_shetty_/" target="_blank">
+<img align="left" width="30px" height="30px" title="Instagram" alt="Ksheera's Instagram" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265400922-e10aa2cb-6116-4eb6-8ca3-42a00ce05860.png"/>
 </a>
 </p>
 
