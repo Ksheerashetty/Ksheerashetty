@@ -3,7 +3,7 @@
 ![Bitmoji of ksheera poping out of laptop with some animation and gradient effects as background](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
 
 ---
-### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">   Languages and Tools  
+### 🖥️ Languages and Tools  
 <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />           
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -22,7 +22,7 @@
 
 ---
 
-### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40">   How to reach me  
+### 🌐 How to reach me  
 <p >
   <a href="https://linkedin.com/in/ksheerashetty28/" title="LinkedIn">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265392888-642dfb60-536d-4af0-8dd6-9fc8aee0d277.png" alt="LinkedIn" width="25px" height="25px"  align="left"  style="padding-right:10px;">
@@ -38,7 +38,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">  Github Stats  
+### 📈 Github Stats  
 <details>
   <summary>🤓<b>Github Stats</b></summary>
  <br />
@@ -70,7 +70,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N2MW9venJ6NGw4MXRoaGw1bHY4NHgya3B4d2N5aGozYzRrcTBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOk51T66Qd8tJm/giphy.gif"  width="40">  Profile Views  
+### 👀 Profile Views  
 <img src="https://profile-counter.glitch.me/Ksheerashetty/count.svg" />
 
 <!--<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
@@ -98,7 +98,11 @@ pins
 <!--[instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1U6LmpzoBNg2YbRan2SF3p9S1CafG33UMocaKrzKtNsZgijE2QNwVpYzJpRFumSJX0rU&usqp=CAU)
 <!-- <a href = "https://www.hackerrank.com/ksheerashetty">HackerRank </br>
 <!--
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N2MW9venJ6NGw4MXRoaGw1bHY4NHgya3B4d2N5aGozYzRrcTBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOk51T66Qd8tJm/giphy.gif"  width="40"> 
 <!--![gif2](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/3c3546c1-3575-43f6-80bc-15db1016f9fd)
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">   
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">  
+ <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40">  
 **Ksheerashetty/Ksheerashetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
