@@ -35,7 +35,7 @@
 </br>
 
 ---
-### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Github Stats:
+### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Github Stats
 <details>
   <summary>🤓<b>Github Stats</b></summary>
  <br />
@@ -69,7 +69,7 @@
 
 
 ---
-### Profile Views
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N2MW9venJ6NGw4MXRoaGw1bHY4NHgya3B4d2N5aGozYzRrcTBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOk51T66Qd8tJm/giphy.gif"  width="40">Profile Views
 <img src="https://profile-counter.glitch.me/Ksheerashetty/count.svg" />
 
 <!--<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
