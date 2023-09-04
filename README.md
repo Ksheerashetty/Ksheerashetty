@@ -24,10 +24,17 @@
  <img align="left" alt="Figma" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <br />
 
-- 📫 How to reach me:</br>
-Gmail Id: ksheerashetty@gmail.com </br>
-<a href = "https://www.linkedin.com/in/ksheera-shetty-059b61216"> Linkedin</a></br>
-<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
+
+### <img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLokGpl8fWZ2KkzlHng68S5mhrCmQfsLlaw&usqp=CAU)" width="40">How to reach me ️
+
+<p align="center">
+<a href="https://linkedin.com/in/ksheerashetty28" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="KsheeraShetty" title="LinkedIn" /></a>
+<a href="mailto:ksheerashetty@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
+ 
+</p>
+
+
+<!--<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
 <!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&theme=aura&show_icons=true">-->
 <!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000">
 
