@@ -22,15 +22,17 @@
 ---
 ### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40"> How to reach me ️</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ksheerashetty28/">
-  <img align="left" width="30px" height="30px" title="LinkedIn" alt="Ksheera's LinkedIn" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265392888-642dfb60-536d-4af0-8dd6-9fc8aee0d277.png"/>
-</a>
-<a href="mailto:ksheerashetty@gmail.com" target="_blank">
-<img align="left" width="30px" height="30px" title="Gmail" alt="Ksheera's Gmail" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265397778-e893de56-42b1-4be5-95fc-e16feed28ada.png"/>
-<a href="https://www.instagram.com/ksheera_shetty_/" target="_blank">
-<img align="left" width="30px" height="30px" title="Instagram" alt="Ksheera's Instagram" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265400922-e10aa2cb-6116-4eb6-8ca3-42a00ce05860.png"/>
-</a>
+  <a href="https://linkedin.com/in/ksheerashetty28/" title="LinkedIn">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265392888-642dfb60-536d-4af0-8dd6-9fc8aee0d277.png" alt="LinkedIn" width="30px" height="30px" style="margin-right: 10px;">
+  </a>
+  <a href="mailto:ksheerashetty@gmail.com" title="Gmail">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265397778-e893de56-42b1-4be5-95fc-e16feed28ada.png" alt="Gmail" width="30px" height="30px" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.instagram.com/ksheera_shetty_/" title="Instagram">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265400922-e10aa2cb-6116-4eb6-8ca3-42a00ce05860.png" alt="Instagram" width="30px" height="30px">
+  </a>
 </p>
+
 </br>
 
 ---
