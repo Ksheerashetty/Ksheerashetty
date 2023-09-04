@@ -33,7 +33,6 @@
  </p>
 </details>
 </br>
-
 <details>
   <summary>🔥<b>Github Streak</b></summary>
  <br />
@@ -48,12 +47,13 @@
  <br />
  <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-
   </a>
  </p>
 </details>
 </br>
+
 ---
+
 ### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40">  How to reach me 
 <p >
   <a href="https://linkedin.com/in/ksheerashetty28/" title="LinkedIn">
@@ -69,6 +69,7 @@
 </br>
 
 ---
+
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N2MW9venJ6NGw4MXRoaGw1bHY4NHgya3B4d2N5aGozYzRrcTBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOk51T66Qd8tJm/giphy.gif"  width="40">Profile Views
 <img src="https://profile-counter.glitch.me/Ksheerashetty/count.svg" />
 
