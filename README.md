@@ -29,9 +29,10 @@
 ### <img src=" ![reach](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/e1267239-f5a8-42c5-89df-fe26d9263012)" width="40" > How to reach me ️
 
 <p align="center">
-<a href="https://linkedin.com/in/ksheerashetty28" target="_blank"><img align="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg](https://skillicons.dev/icons?i=linkedin)" alt="KsheeraShetty" title="LinkedIn" /></a>
+<a href="https://linkedin.com/in/ksheerashetty28" target="_blank"><img align="center" src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg](https://skillicons.dev/icons?i=linkedin)](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/7d4d3eda-e6b9-4721-b85c-07de9a0e37b3)" alt="KsheeraShetty" title="LinkedIn" /></a>
 <a href="mailto:ksheerashetty@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
 </p>
+![image]()
 
 
 <!--<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
