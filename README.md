@@ -25,7 +25,7 @@
   <br />
 
 
-### <img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLokGpl8fWZ2KkzlHng68S5mhrCmQfsLlaw&usqp=CAU)" width="40">How to reach me ️
+### <img src=" https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVkdGd4ZnYza3FibzI4eGsycDgzMTluYnN4YjVlcHFkdWNvM2g0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40" > How to reach me ️
 
 <p align="center">
 <a href="https://linkedin.com/in/ksheerashetty28" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="KsheeraShetty" title="LinkedIn" /></a>
