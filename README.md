@@ -32,21 +32,40 @@
 <img align="left" width="30px" height="30px" title="Instagram" alt="Ksheera's Instagram" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265400922-e10aa2cb-6116-4eb6-8ca3-42a00ce05860.png"/>
 </a>
 </p>
+</br>
 
 ---
 ### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Github Stats:
 <details>
-  <summary>📊 <b>Github Readme Stats</b></summary>
+  <summary>🤓<b>Github Stats</b></summary>
  <br />
  <p align="center">
   <a href="https://github.com/Ksheerashetty">
   <img src="https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000" alt="GitHub Stats"> 
   </a>
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" alt="GitHub Streak">
-  </a>
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" ></a>
  </p>
 </details>
+</br>
+
+<details>
+  <summary>🔥<b>Github Streak</b></summary>
+ <br />
+ <p align="center">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" alt="GitHub Streak">
+  </a>
+ </p>
+</details>
+</br>
+<details>
+  <summary>📊<b>Languages Used</b></summary>
+ <br />
+ <p align="center">
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty&layout=donut-vertical)](https://github.com/Ksheerashetty/github-readme-stats)
+  </a>
+ </p>
+</details>
+</br>
+
 
 ---
 ### Profile Views
