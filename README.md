@@ -1,27 +1,13 @@
-### Hi there, I am Ksheera! 👋 
+### Hi there!!! 👋 
 <!--![gif2](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/3c3546c1-3575-43f6-80bc-15db1016f9fd)-->
 <!--![My GitHub Profile image](https://github.com/eddiejaoude.png)-->
 ![Bitmoji of ksheera poping out of laptop with some animation and gradient effects as background](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
+
 <!--<img src=" https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4" title="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" alt="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" >-->
 <!--![gif](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/84f00673-cbe1-4fcc-babb-3815a42286bf)-->
 
 <!--https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/9fddddc0-7cd5-420d-9a63-887d001057c4-->
-<img src="C:\Users\kshee\Downloads\gif.gif">
-
-
-- 📫 How to reach me:</br>
-Gmail Id: ksheerashetty@gmail.com </br>
-<a href = "https://www.linkedin.com/in/ksheera-shetty-059b61216"> Linkedin</a></br>
-<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
-<!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&theme=aura&show_icons=true">-->
-<!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight"></a>
-</br>-->
-<img src="https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000" alt="GitHub Stats">        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" alt="GitHub Streak"></a></br>
----
-
-### 🧰 Languages and Tools      
+### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages and Tools    
 
  <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />           
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -36,12 +22,51 @@ Gmail Id: ksheerashetty@gmail.com </br>
  <img align="left" alt="Visual Studio Code" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="left" alt="Canva" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  <img align="left" alt="Figma" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-                    
+  <br />
 
-        
-<br />
+- 📫 How to reach me:</br>
+Gmail Id: ksheerashetty@gmail.com </br>
+<a href = "https://www.linkedin.com/in/ksheera-shetty-059b61216"> Linkedin</a></br>
+<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
+<!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&theme=aura&show_icons=true">-->
+<!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000">
 
-#
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight"></a>
+</br>-->
+<img src="https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000" alt="GitHub Stats">        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" alt="GitHub Streak"></a></br>
+---
+
+
+
+---
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+<details>
+  <summary>📊 <b>Github Readme Stats</b></summary>
+ <br />
+ <p align="center">
+  <a href="https://github.com/abhinandanraj">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanraj&show_icons=true&theme=radical&count_private=true">
+  </a>
+  <a href="https://github.com/abhinandanraj/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhinandanraj&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </p>
+</details>
+
+<details>
+ <summary>🏆 <b>Github Profile Trophy</b></summary>
+ <br />
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
+  </a>
+ </p>
+</details>
+
+
+---
+### Profile Views
 <img src="https://profile-counter.glitch.me/Ksheerashetty/count.svg" />
 
 
@@ -71,3 +96,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+
