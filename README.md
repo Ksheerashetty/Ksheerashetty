@@ -60,7 +60,8 @@
   <summary>📊<b>Languages Used</b></summary>
  <br />
  <p align="center">
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty&layout=donut-vertical)](https://github.com/Ksheerashetty/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksheerashetty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+
   </a>
  </p>
 </details>
