@@ -1,7 +1,8 @@
-### Hi there!!! 👋 
+<h3 align="center">Hi there!!! 👋 </h3>
 
 ![Bitmoji of ksheera poping out of laptop with some animation and gradient effects as background](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
 
+---
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages and Tools    
 <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />           
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -18,6 +19,7 @@
 <img align="left" alt="Figma" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </br>
 
+---
 ### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40"> How to reach me ️</h3>
 <p align="center">
 <br/>
@@ -31,20 +33,8 @@
 </a>
 </p>
 
-
-<!--<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
-<!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&theme=aura&show_icons=true">-->
-<!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight"></a>
-</br>-->
-      
 ---
-
-
----
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
+### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Github Stats:
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
@@ -54,23 +44,19 @@
   </a>
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" alt="GitHub Streak">
   </a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" ></a>
  </p>
 </details>
-
-<details>
- <summary>🏆 <b>Github Profile Trophy</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
-  </a>
- </p>
-</details>
-
 
 ---
 ### Profile Views
 <img src="https://profile-counter.glitch.me/Ksheerashetty/count.svg" />
+
+<!--<a href = "https://www.instagram.com/_ksheera_shetty_/?utm_medium=copy_link">Instagram</a></br>
+<!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&theme=aura&show_icons=true">-->
+<!--<img src = "https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000">
+
+
 
 <!--<img src=" https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4" title="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" alt="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" >-->
 <!--![gif](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/84f00673-cbe1-4fcc-babb-3815a42286bf)-->
