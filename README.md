@@ -2,7 +2,7 @@
 
 ![Bitmoji of ksheera poping out of laptop with some animation and gradient effects as background](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
 
---
+---
 
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages and Tools    
 <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />           
