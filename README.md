@@ -60,10 +60,10 @@
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265392888-642dfb60-536d-4af0-8dd6-9fc8aee0d277.png" alt="LinkedIn" width="25px" height="25px"  align="left"  style="padding-right:10px;">
   </a>
   <a href="mailto:ksheerashetty@gmail.com" title="Gmail">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265397778-e893de56-42b1-4be5-95fc-e16feed28ada.png" alt="Gmail" width="25px" height="30px"  align="left" style="padding-right:10px;">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265397778-e893de56-42b1-4be5-95fc-e16feed28ada.png" alt="Gmail" width="27px" height="30px"  align="left" style="padding-right:10px;">
   </a>
   <a href="https://www.instagram.com/ksheera_shetty_/" title="Instagram">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265400922-e10aa2cb-6116-4eb6-8ca3-42a00ce05860.png" alt="Instagram" width="25px" height="25px"  align="left" style="padding-right:10px;">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265400922-e10aa2cb-6116-4eb6-8ca3-42a00ce05860.png" alt="Instagram" width="25px" height="27px"  align="left" style="padding-right:10px;">
   </a>
 </p>
 </br>
