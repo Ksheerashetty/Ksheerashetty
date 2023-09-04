@@ -1,4 +1,4 @@
-![gmail](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/219b47b1-2168-44bc-bbc4-35c5296b6631)### Hi there!!! 👋 
+### Hi there!!! 👋 
 
 ![Bitmoji of ksheera poping out of laptop with some animation and gradient effects as background](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
 
