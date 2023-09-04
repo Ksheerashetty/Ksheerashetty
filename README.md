@@ -40,7 +40,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight"></a>
 </br>-->
-<img src="https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000" alt="GitHub Stats">        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" alt="GitHub Streak"></a></br>
+      
 ---
 
 
@@ -52,11 +52,10 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/abhinandanraj">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanraj&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/Ksheerashetty">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ksheerashetty&&show_icons=true&title_color=00A4F8&icon_color=0A7F94&text_color=00CCC3&bg_color=000000" alt="GitHub Stats"> 
   </a>
-  <a href="https://github.com/abhinandanraj/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhinandanraj&layout=compact&theme=radical&langs_count=6" />
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ksheerashetty&theme=tokyonight" alt="GitHub Streak">
   </a>
  </p>
 </details>
