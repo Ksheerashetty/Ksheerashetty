@@ -1,6 +1,3 @@
-
-![linkedin](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/642dfb60-536d-4af0-8dd6-9fc8aee0d277)
-
 ### Hi there!!! 👋 
 
 ![Bitmoji of ksheera poping out of laptop with some animation and gradient effects as background](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
@@ -24,7 +21,7 @@
 
 ### <img src= "https://media.giphy.com/media/4dH9RUIKgYu2jfrYJI/giphy.gif" width="40"> How to reach me ️
 <a href="https://linkedin.com/in/ksheerashetty28">
-  <img align="left" width="30px" height="30px" title="LinkedIn" alt="Ksheera's LinkedIn" style="padding-right:10px;" src="[https://github.com/Ksheerashetty/Ksheerashetty/raw/main/assets/65451950/e81fc004-5300-4a09-9c5a-c841c58ac539.png](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/642dfb60-536d-4af0-8dd6-9fc8aee0d277)">
+  <img align="left" width="30px" height="30px" title="LinkedIn" alt="Ksheera's LinkedIn" style="padding-right:10px;" src="https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/642dfb60-536d-4af0-8dd6-9fc8aee0d277"/>
 </a>
 
 <a href="mailto:ksheerashetty@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
