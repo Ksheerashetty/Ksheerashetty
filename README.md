@@ -1,30 +1,26 @@
 ### Hi there!!! 👋 
 
 ![Bitmoji of ksheera poping out of laptop with some animation and gradient effects as background](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
+
 --
+
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages and Tools    
-
-<!--<img src=" https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4" title="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" alt="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" >-->
-<!--![gif](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/84f00673-cbe1-4fcc-babb-3815a42286bf)-->
-
-<!--https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/9fddddc0-7cd5-420d-9a63-887d001057c4-->
-
- <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />           
+<img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />           
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" title="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
- <img align="left" alt="Firebase" title="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
- <img  align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
- <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
- <img align="left" alt="Visual Studio Code" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- <img align="left" alt="Canva" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
- <img align="left" alt="Figma" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <br />
+<img align="left" alt="Firebase" title="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img  align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
+<img align="left" alt="Visual Studio Code" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Canva" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img align="left" alt="Figma" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<br />
 
-
+---
 
 ### <img src=" ![reach](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/e1267239-f5a8-42c5-89df-fe26d9263012)" width="40" > How to reach me ️
 
@@ -76,6 +72,10 @@
 ### Profile Views
 <img src="https://profile-counter.glitch.me/Ksheerashetty/count.svg" />
 
+<!--<img src=" https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4" title="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" alt="Bitmoji of ksheera poping out of laptop with some animation and gradient effects" >-->
+<!--![gif](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/84f00673-cbe1-4fcc-babb-3815a42286bf)-->
+
+<!--https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/9fddddc0-7cd5-420d-9a63-887d001057c4-->
 
 <!--<a href="https://visitorbadge.io/status?path=Ksheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%230a7f94&countColor=%2300ccc3&style=flat&labelStyle=none" /></a>
 
