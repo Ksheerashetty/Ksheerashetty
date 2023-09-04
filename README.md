@@ -1,4 +1,4 @@
-### Hi there!!! 👋 
+![gmail](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/219b47b1-2168-44bc-bbc4-35c5296b6631)### Hi there!!! 👋 
 
 ![Bitmoji of ksheera poping out of laptop with some animation and gradient effects as background](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
 
@@ -26,7 +26,7 @@
   <img align="left" width="30px" height="30px" title="LinkedIn" alt="Ksheera's LinkedIn" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265392888-642dfb60-536d-4af0-8dd6-9fc8aee0d277.png"/>
 </a>
 <a href="mailto:ksheerashetty@gmail.com" target="_blank">
-<img align="left" width="30px" height="30px" title="Gmail" alt="Ksheera's Gmail" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265397088-20ef4b35-ef6b-40af-b092-925ed5a17122.png"/>
+<img align="left" width="30px" height="30px" title="Gmail" alt="Ksheera's Gmail" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/65451950/265397778-e893de56-42b1-4be5-95fc-e16feed28ada.png"/>
 </a>
 </p>
 
