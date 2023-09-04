@@ -42,7 +42,10 @@ Gmail Id: ksheerashetty@gmail.com </br>
 <br />
 
 #
-<a href="https://visitorbadge.io/status?path=Ksheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%230a7f94&countColor=%2300ccc3&style=flat&labelStyle=none" /></a>
+<img src="https://profile-counter.glitch.me/Ksheerashetty/count.svg" />
+
+
+<!--<a href="https://visitorbadge.io/status?path=Ksheerashetty"><img src="https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%230a7f94&countColor=%2300ccc3&style=flat&labelStyle=none" /></a>
 
 <!--[![Visitors](https://api.visitorbadge.io/api/visitors?path=Ksheerashetty&label=Profile%20Views&labelColor=%23ba68c8&countColor=%232ccce4&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=Ksheerashetty)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
